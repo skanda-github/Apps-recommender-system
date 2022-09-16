@@ -29,8 +29,10 @@ This model uses a Content Based Recommender System, which analyses the developer
 3. Run the file `main.py` by using the command `streamlit run main.py` at the terminal or command line after opening your project directory (Website directory).
 4. Cheers! The website will launch.
 
-        Note : Specific requirements.txt is also there in Model directory to execute the notebook.Here I have not uploaded the model pickle file and data pickle
-        file(which is used in deployment), to get that run the notebook by following the above steps and paste those files in Website directory for proper execution. 
+        Note : Specific requirements.txt is also there in Model directory to execute the notebook.
+        Here I have not uploaded the model pickle file and data pickle file(which is used in deployment).
+        To get that run the notebook by following the above steps and paste those files in Website directory for proper execution. 
+5. If still confused, use the requirements.txt present in root directory and install it, which has requirements of entire model & website.
 ## Core Concept
 
 1. Create tags from data (Input for Model)
