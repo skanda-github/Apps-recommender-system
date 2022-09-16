@@ -39,7 +39,7 @@ This model uses a Content Based Recommender System, which analyses the developer
 2. A fantastic utility offered by the Python scikit-learn module is Count Vectorizer. It is employed to convert a given text into a vector based on the frequency (count) of each word that appears across the text as a whole.
 3. Once Vectors are created from tags that is given to Cosine Similarity
 4. The cosine similarity index calculates how similar two vectors in an inner product space are to one another. It establishes whether two vectors are roughly pointing in the same direction by calculating the cosine of the angle between them. In text analysis, it is frequently used to gauge document similarity.
-5. Following this idea we build this model.
+5. Following this idea we build our model.
 ## Links
 
 1. Dataset - https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps
