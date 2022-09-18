@@ -33,6 +33,8 @@ This model uses a Content Based Recommender System, which analyses the developer
         Here I have not uploaded the model pickle file and data pickle file(which is used in deployment).
         To get that run the notebook by following the above steps and paste those files in Website directory for proper execution. 
 5. If still confused, use the requirements.txt present in root directory and install it, which has requirements of entire model & website.
+## Deployment
+Website is created using streamlit and hosted in heroku.
 ## Core Concept
 
 1. Create tags from data (Input for Model).
