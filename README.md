@@ -45,4 +45,3 @@ Website is created using streamlit and hosted in heroku.
 ## Links
 
 1. Dataset - https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps
-2. Website - https://app-recommender.herokuapp.com/
